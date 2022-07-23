@@ -1,0 +1,22 @@
+= Testhub
+
+== Was isch das do?
+
+Das isch Testhub für s Gymi Laufe. +
+Wenn de e alte Test suechsch findisch dä do und wenn sälber ein hingerlegge willsch, chasch das genau so do mache.
+
+== Wie wiit isch dr Fortschritt?
+
+Noniene
+
+== Was sell alles erstellt wärde?
+
+* [ ] Website als PWA zum eifach Tests finge
+** [ ] Suechfunktion
+** [ ] Filter
++
+* [ ] Database wo d Tests gspeicheret si
++
+* [ ] Funktion zum eifache hinzuefiege vomene Test
++
+* [ ] Review und Report funktionalitäte zum gege Huer***hn gschützt si

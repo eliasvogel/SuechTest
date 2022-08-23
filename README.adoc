@@ -1,8 +1,8 @@
-= Testhub
+= SuechTest
 
 == Was isch das do?
 
-Das isch Testhub für s Gymi Laufe. +
+Das isch SuechTest für s Gymi Laufe. +
 Wenn de e alte Test suechsch findisch dä do und wenn sälber ein hingerlegge willsch, chasch das genau so do mache.
 
 == Wie wiit isch dr Fortschritt?
